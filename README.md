@@ -45,3 +45,4 @@ There are more than one feed in the allFeeds. The loadFeed() function load speci
 The second feed content should be different from the first feed. So that by comparing the rendered HTML content, we can check if the program loads a different feed with the function instead the same one. 
 
 The HTML can be get in jQuery .html() function. # FEEDREADER
+# FEEDREADER
